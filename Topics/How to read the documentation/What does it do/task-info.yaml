@@ -1,0 +1,21 @@
+type: matching
+custom_name: What does it do?
+captions:
+  - Pandas
+  - Requests
+  - PrettyTable
+options:
+  - Powerful data structures and time series data.
+  - Working with HTTP requests.
+  - Data presentation in tabular format.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12131#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2

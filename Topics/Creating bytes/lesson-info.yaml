@@ -1,0 +1,5 @@
+content:
+  - Theory
+  - Encode() and bytes()
+  - Single integer conversion
+  - To_bytes()

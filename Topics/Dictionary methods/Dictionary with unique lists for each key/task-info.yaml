@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Use the <code>dict()</code> constructor with a list as the value
+  - text: Use the <code>fromkeys()</code> method with a list as the common value
+  - text: Use dictionary comprehension with a list as the value in the expression
+  - text: Use the <code>update()</code> method with a list as the value
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/36306#comment
+status: Solved
+record: -1
+local_check: false
